@@ -59,6 +59,8 @@ pip install -r requirements.txt
 mkdir -p .streamlit
 cp secrets.toml.example .streamlit/secrets.toml
 # Edit with your PostgreSQL credentials
+# Get a free API key at: https://openchargemap.org/site/develop/api
+# Add to secrets.toml as OCM_API_KEY
 
 # 4. Run
 streamlit run ev_app.py
