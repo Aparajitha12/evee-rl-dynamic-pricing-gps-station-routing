@@ -28,7 +28,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/evee-pricing-agent.git
+git clone https://github.com/Aparajitha12/evee-rl-dynamic-pricing-gps-station-routing.git
 cd evee-pricing-agent
 
 # 2. Set environment variables
