@@ -29,7 +29,7 @@
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Aparajitha12/evee-rl-dynamic-pricing-gps-station-routing.git
-cd evee-pricing-agent
+cd evee-rl-dynamic-pricing-gps-station-routing
 
 # 2. Set environment variables
 cp .env.example .env
